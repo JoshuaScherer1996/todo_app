@@ -28,3 +28,4 @@ Expense Tracker is a Flutter app that helps you keep track of all your expenses 
 - Widget tree is the combination of widgets in the code.
 - Element tree is the in memory representation of the widgets. Used to determine required UI updates. -> re-used if possible.
 - Render tree is the visible ui building blocks. Updated only when needed via comparison with elment tree. -> UI only partially updated.
+- Added code from a [gitHub repo](https://github.com/academind/flutter-complete-guide-course-resources/tree/main/Lecture%20Attachments/07%20Flutter%20Internals/01%20Starting%20Setup/lib) to better understand the trees.
