@@ -1,16 +1,27 @@
-# todo_app
+# ToDo App
 
-A new Flutter project.
+Expense Tracker is a Flutter app that helps you keep track of all your expenses and better understand your spending habbits! This code was produced during the completion of the Flutter course [A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/37130436#overview).
 
-## Getting Started
+## Basic functionality
+- Showing all expenses in a list
+- Being able to categorize expenses
+- Displaying the different types of expenses in a chart
+- Adding new expenses with the title, amount, type and date
 
-This project is a starting point for a Flutter application.
+### Screenshots light mode android
+<div align="center">
+  <img src="up_orientation_light_mode_android.png" alt="Dark mode walkthrough" width="200"/>
+</div>
+<div align="center">
+  <img src="landscape_orientation_light_mode_android.png" alt="Dark mode walkthrough" width="400"/>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+### Example walkthrough android
+<div align="center">
+  <img src="walkthrough_adaptiv_android.gif" alt="Dark mode walkthrough" width="200"/>
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Topics covered 
+
+- 
