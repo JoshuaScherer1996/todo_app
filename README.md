@@ -31,3 +31,4 @@ Expense Tracker is a Flutter app that helps you keep track of all your expenses 
 - Added code from a [gitHub repo](https://github.com/academind/flutter-complete-guide-course-resources/tree/main/Lecture%20Attachments/07%20Flutter%20Internals/01%20Starting%20Setup/lib) to better understand the trees.
 - Learned about better strucutre for flutter apps with extracting widgets into new files and when to call which function to reduce redundent elment checks while going through the trees. Less checks = better performance.
 - In addition to the last point: it is good practice to keep the stateful widgets as small as possible.
+- Learned more in depth about the usage of keys. Added code from this [gitHub repo](https://github.com/academind/flutter-complete-guide-course-resources/tree/main/Code%20Snapshots/07%20Flutter%20Internals/02%20Refactor%20%26%20Extract%20Widgets/lib/keys) to better understand keys.
