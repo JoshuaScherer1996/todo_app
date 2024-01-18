@@ -34,3 +34,5 @@ Expense Tracker is a Flutter app that helps you keep track of all your expenses 
 - Learned more in depth about the usage of keys. Added code from this [gitHub repo](https://github.com/academind/flutter-complete-guide-course-resources/tree/main/Code%20Snapshots/07%20Flutter%20Internals/02%20Refactor%20%26%20Extract%20Widgets/lib/keys) to better understand keys.
 - Learned about the way widgets are connected with elements and how the reference can be updated.
 - Learned that states are independent from their widgets and connected to the elements. That is why the using the checkableitem without keys breaks the app.
+- Learned that flutter checks the reusability of an item based on matching types. If the type od the item and the element is the same than flutter is fine with updating the reference.
+- Keys move with the items. Flutter now checks the type and the key and is able to move the keys as well as the states accordingly. In short: it moves the elements.
